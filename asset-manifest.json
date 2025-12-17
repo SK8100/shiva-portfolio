@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SK8100.github.io/shiva-portfolio/static/css/main.81fc6b6b.css",
+    "main.js": "/SK8100.github.io/shiva-portfolio/static/js/main.9fcbeaf6.js",
+    "index.html": "/SK8100.github.io/shiva-portfolio/index.html",
+    "main.81fc6b6b.css.map": "/SK8100.github.io/shiva-portfolio/static/css/main.81fc6b6b.css.map",
+    "main.9fcbeaf6.js.map": "/SK8100.github.io/shiva-portfolio/static/js/main.9fcbeaf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81fc6b6b.css",
+    "static/js/main.9fcbeaf6.js"
+  ]
+}
